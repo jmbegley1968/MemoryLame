@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Memory Lame</string>
+    <string name="title_activity_twelve">Twelve</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2755387707372913/7977110033</string>
+    <string name="about_text">
+        Memory Lame version 1.0.  Limegreen Software.\n\n
+        Keep app updated for improvements.\n\n
+        Coming soon, paid version with no ads and more levels.\n\n
+    </string>
+	<string name="help_text">
+		How lame is your memory?
+        \n\nTurn the cards two at a time, and memorize the colours before they turn back around.
+		Matching cards will remain facing up.  Mismatching cards will turn back over.
+		A point will be deducted if a mismatching pair contain a card previously revealed.
+		\n\nThe aim of the game is to finish all levels with a score of 0.  Good luck!
+	</string>
+</resources>
